@@ -1,0 +1,1 @@
+current_state = e_gamestate.room_load;

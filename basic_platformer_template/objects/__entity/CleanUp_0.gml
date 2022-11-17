@@ -1,0 +1,1 @@
+if (ds_exists(collision_list, ds_type_list)) ds_list_destroy(collision_list);
